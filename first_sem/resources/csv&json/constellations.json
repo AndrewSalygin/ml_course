@@ -1,0 +1,76 @@
+{
+  "constellations": [
+    {
+      "latin_name": "Orion",
+      "abbreviation": "Ori",
+      "area": 594.0,
+      "brightest_stars": [
+        {
+          "name": "Betelgeuse",
+          "brightness": 0.42
+        },
+        {
+          "name": "Rigel",
+          "brightness": 0.18
+        },
+        {
+          "name": "Bellatrix",
+          "brightness": 1.64
+        }
+      ],
+      "neighboring_constellations": [
+        "Taurus",
+        "Eridanus",
+        "Lepus"
+      ]
+    },
+    {
+      "latin_name": "Ursa Major",
+      "abbreviation": "UMa",
+      "area": 1280.0,
+      "brightest_stars": [
+        {
+          "name": "Dubhe",
+          "brightness": 1.79
+        },
+        {
+          "name": "Merak",
+          "brightness": 2.37
+        },
+        {
+          "name": "Alioth",
+          "brightness": 1.76
+        }
+      ],
+      "neighboring_constellations": [
+        "Ursa Minor",
+        "Bootes",
+        "Leo"
+      ]
+    },
+    {
+      "latin_name": "Scorpius",
+      "abbreviation": "Sco",
+      "area": 497.0,
+      "brightest_stars": [
+        {
+          "name": "Antares",
+          "brightness": 1.09
+        },
+        {
+          "name": "Shaula",
+          "brightness": 1.62
+        },
+        {
+          "name": "Lesath",
+          "brightness": 2.68
+        }
+      ],
+      "neighboring_constellations": [
+        "Libra",
+        "Ophiuchus",
+        "Sagittarius"
+      ]
+    }
+  ]
+}
