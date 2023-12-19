@@ -1,27 +1,27 @@
 {
   "constellations": [
     {
-      "latin_name": "Ursa Major",
-      "abbreviation": "UMa",
-      "area": 1280.0,
+      "latin_name": "Orion",
+      "abbreviation": "Ori",
+      "area": 594.0,
       "brightest_stars": [
         {
-          "name": "Alioth",
-          "brightness": 1.76
+          "name": "Bellatrix",
+          "brightness": 1.64
         },
         {
-          "name": "Dubhe",
-          "brightness": 1.79
+          "name": "Betelgeuse",
+          "brightness": 0.42
         },
         {
-          "name": "Merak",
-          "brightness": 2.37
+          "name": "Rigel",
+          "brightness": 0.18
         }
       ],
       "neighboring_constellations": [
-        "Ursa Minor",
-        "Bootes",
-        "Leo"
+        "Taurus",
+        "Eridanus",
+        "Lepus"
       ]
     },
     {
@@ -49,27 +49,27 @@
       ]
     },
     {
-      "latin_name": "Orion",
-      "abbreviation": "Ori",
-      "area": 594.0,
+      "latin_name": "Ursa Major",
+      "abbreviation": "UMa",
+      "area": 1280.0,
       "brightest_stars": [
         {
-          "name": "Bellatrix",
-          "brightness": 1.64
+          "name": "Alioth",
+          "brightness": 1.76
         },
         {
-          "name": "Betelgeuse",
-          "brightness": 0.42
+          "name": "Dubhe",
+          "brightness": 1.79
         },
         {
-          "name": "Rigel",
-          "brightness": 0.18
+          "name": "Merak",
+          "brightness": 2.37
         }
       ],
       "neighboring_constellations": [
-        "Taurus",
-        "Eridanus",
-        "Lepus"
+        "Ursa Minor",
+        "Bootes",
+        "Leo"
       ]
     }
   ]
